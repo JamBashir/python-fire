@@ -1,4 +1,4 @@
-# Python Fire [![PyPI](https://img.shields.io/pypi/pyversions/fire.svg?style=plastic)](https://github.com/google/python-fire)
+### Python Fire [![PyPI](https://img.shields.io/pypi/pyversions/fire.svg?style=plastic)](https://github.com/google/python-fire)
 
 _Python Fire is a library for automatically generating command line interfaces
 (CLIs) from absolutely any Python object._
@@ -30,7 +30,7 @@ You can call `Fire` on any Python object:<br>
 functions, classes, modules, objects, dictionaries, lists, tuples, etc.
 They all work!
 
-Here's an example of calling Fire on a function.
+Here is an example of calling Fire on a function.
 
 ```python
 import fire
